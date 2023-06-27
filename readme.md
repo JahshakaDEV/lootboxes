@@ -2,6 +2,7 @@
 
 <ul>
 <li>/lootbox um Lootbox Menu zu sehen</li>
+<li>/setbalance (amount) um Balance zu setzten (nur für testzwecke)</li>
 <li>Beispiel Config schon für Testzwecke im Plugin drin</li>
 <h2>Items.yml Config</h2>
 id: id <br>
@@ -26,5 +27,6 @@ onMainPage: auf main page anzeigen<br>
 items: die id's der items die rein sollen <br>
 
 </ul>
+
 
 debug paper task für schnellen server
