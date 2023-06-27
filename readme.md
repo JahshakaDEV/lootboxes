@@ -26,3 +26,5 @@ onMainPage: auf main page anzeigen<br>
 items: die id's der items die rein sollen <br>
 
 </ul>
+
+debug paper task für schnellen server
