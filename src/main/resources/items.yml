@@ -1,0 +1,56 @@
+testItem:
+  name: '&aTestItem'
+  amount: 1
+  material: DIAMOND_SWORD
+  lore:
+  - 1&623
+  - 3&c21
+  probability: 10
+  enchantments: '{"minecraft:unbreaking":3,"minecraft:fire_protection":1}'
+  command: say %name / %uuid TestItem
+testItem2:
+  name: '&aTestItem2'
+  amount: 2
+  material: IRON_SWORD
+  lore:
+  - 1&623
+  - 3&c21
+  probability: 10
+  enchantments: '{"minecraft:unbreaking":3,"minecraft:fire_protection":1}'
+  command: say %name / %uuid TestItem2
+testItem3:
+  name: '&aTestItem3'
+  amount: 3
+  material: GOLDEN_SWORD
+  lore:
+  - 1&623
+  - 3&c21
+  probability: 10
+  enchantments: '{"minecraft:unbreaking":3,"minecraft:fire_protection":1}'
+  command: say %name / %uuid TestItem3
+testItem4:
+  name: '&aTestItem4'
+  amount: 4
+  material: WOODEN_SWORD
+  lore:
+  - 1&623
+  - 3&c21
+  probability: 10
+  enchantments: '{"minecraft:unbreaking":3,"minecraft:fire_protection":1}'
+  command: say %name / %uuid TestItem4
+testItem5:
+  name: '&aTestItem5'
+  amount: 5
+  material: DIAMOND_SWORD
+  lore:
+  - 1&623
+  - 3&c21
+  probability: 10
+  enchantments: '{"minecraft:unbreaking":3,"minecraft:fire_protection":1}'
+  command: say %name / %uuid TestItem5
+plot1:
+  name: '&aCoolePlot'
+  amount: 1
+  probability: 10
+  material: CHEST
+  command: say %name / %uuid plot1

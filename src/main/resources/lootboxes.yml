@@ -1,0 +1,47 @@
+apollo:
+  name: '&aapollo-Kiste'
+  price: 13
+  material: CHEST
+  location: 10
+  inShop: true
+  onMainPage: true
+  items:
+  - testItem
+  - plot1
+  - testItem2
+  - testItem3
+  - testItem4
+  - testItem5
+primer:
+  name: '&cprimer-Kiste'
+  price: 200
+  material: ENDER_CHEST
+  location: 13
+  inShop: true
+  onMainPage: true
+  items:
+    - testItem
+    - plot1
+    - testItem2
+    - testItem3
+nomain:
+  name: '&cnomain-Kiste'
+  price: 20000
+  material: ENDER_CHEST
+  location: 14
+  inShop: true
+  onMainPage: false
+  items:
+    - testItem
+    - plot1
+    - testItem4
+    - testItem5
+noshop:
+  name: '&cnoshop-Kiste'
+  price: 200
+  material: ENDER_CHEST
+  location: 16
+  inShop: false
+  onMainPage: true
+  items:
+  - testItem

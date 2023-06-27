@@ -1,0 +1,7 @@
+name: ChestSystem
+version: '${version}'
+main: de.jahshaka.chestsystem.ChestSystem
+api-version: '1.19'
+
+commands:
+  lootbox:
