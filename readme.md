@@ -10,8 +10,8 @@ amount<br>
 material as string<br>
 probability: wenn ein item 1 hat und das andere 10 ist das ander 10 mal so wahrscheinlich <br>
 lore: liste von strings pro zeile
-enchantments
-comamnd - was passiert wenn gewonnen wird %name und %uuid als variable
+enchantments <br>
+comamnd - was passiert wenn gewonnen wird %name und %uuid als variable <br>
 & --> § für Farben
 <br>
 <br>
