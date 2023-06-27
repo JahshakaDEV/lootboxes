@@ -1,7 +1,7 @@
 <h1>Lootbox System</h1>
 
 <ul>
-<li>/lootbox um Lootbox Menu zu essen</li>
+<li>/lootbox um Lootbox Menu zu sehen</li>
 <li>Beispiel Config schon für Testzwecke im Plugin drin</li>
 <h2>Items.yml Config</h2>
 id: id <br>
