@@ -1,6 +1,7 @@
 package de.jahshaka.chestsystem;
 
 import de.jahshaka.chestsystem.commands.LootboxCMD;
+import de.jahshaka.chestsystem.commands.SetBalanceCMD;
 import de.jahshaka.chestsystem.database.SqlManager;
 import de.jahshaka.chestsystem.inventory.GUIListener;
 import de.jahshaka.chestsystem.inventory.GUIManager;
@@ -50,6 +51,7 @@ public class ChestSystem extends JavaPlugin implements Listener {
 
     private void setupCommands() {
         this.getCommand("lootbox").setExecutor(new LootboxCMD());
+        this.getCommand("setbalance").setExecutor(new SetBalanceCMD());
     }
 
     private void setupInventories() {
